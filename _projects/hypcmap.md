@@ -5,7 +5,7 @@ description: A Hybrid Memory Parallel Infomap
 ---
 
 
-HyPC-Map: A Hybrid Parallel Community Detection Algorithm Using Information-Theoretic Approach
+A Hybrid Parallel Community Detection Algorithm Using Information-Theoretic Approach
 ============
 
 
