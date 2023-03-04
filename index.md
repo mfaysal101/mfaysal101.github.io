@@ -13,8 +13,3 @@ I started my Ph.D. program in Computer Science (CS) at the University of New Orl
 
 I completed my undergraduate program in Computer Science and Engineering (CSE) from Bangladesh University of Engineering and Technology (BUET) in 2014. I worked as a software engineer at ReliSource Technologies Ltd. from 2014 to 2017 before starting my Ph.D. program. Apart from my academic interests, I enjoy hiking, long-drive, and playing cricket, badminton, and soccer. 
 
-
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
