@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fast Hash Accumulation
-description: Fast Community Detection using Accelerated Sparse Accumulation
+description: Fast Community Detection using ASA
 ---
 
 In this project, we demonstrated that an accelerator with fast content addressable memory (CAM) for hash accumulation can address the performance limitations in traditional hash operations for processing sparse graph and close the gap between expected and true performance in HPC architecture. 
